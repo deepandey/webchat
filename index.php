@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Webchat</title>
+     <meta http-equiv="refresh" content="10">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
