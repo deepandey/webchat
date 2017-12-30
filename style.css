@@ -1,6 +1,6 @@
 body{
 
-	background-color: #dc143c;  
+	background-color: #92a8d1;  
 }
 #main{
 	background-image: url("back.jpg");
@@ -17,13 +17,13 @@ body{
 input[type=text]{
 	width: 260px;
 	box-sizing: border-box;
-	border: 2px solid #dc143c;
+	border: 2px solid #92a8d1;
 	border-radius:4px;
 }
 input[type=password]{
 	width: 260px;
 	box-sizing: border-box;
-	border: 2px solid #dc143c;
+	border: 2px solid #92a8d1;
 	border-radius:4px;
 }
 .button{
