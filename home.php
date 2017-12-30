@@ -6,10 +6,11 @@
 <html>
 <head>
     <title>Home</title>
+     <meta http-equiv="refresh" content="20">
      <link rel="stylesheet" type="text/css" href="home.css">
 </head>
 <body>
-<p>Welcome!</p>
+<p>Welcome <?php echo $_SESSION['name']?></p>
 <div id="main">
 
 <h1 style="background-color: #6495ed;color: white;"><?php echo $_SESSION['name']?>-online</h1>
