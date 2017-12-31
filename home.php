@@ -6,7 +6,7 @@
 <html>
 <head>
     <title>Home</title>
-     <meta http-equiv="refresh" content="20">
+     <meta http-equiv="refresh" content="30">
      <link rel="stylesheet" type="text/css" href="home.css">
 </head>
 <body>
